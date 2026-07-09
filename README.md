@@ -16,10 +16,10 @@ Foi utilizado o Notebook LM para a execução deste projeto.
 ## Curadoria de fontes
 A fim de ter uma completude de pensamentos, foram utilizado os seguintes critérios para as fontes:
 - O estudo original Ações Garantem o Futuro;
-- Vídeos longos - sem shorts ou cortes de podcasts/entrevistas;
-- Vídeos onde a principal persona é o seu Luiz Barsi;
+- Vídeos longos - sem shorts ou cortes de podcasts/entrevistas, para evitar uma perda de contexto;
+- Vídeos onde a principal persona é o seu Luiz Barsi.
 
-Também foi utilizado o audiolivro "O rei dos dividendos". Este livro é uma autobiografia do referido autor.
+Também foi utilizado o audiolivro "O rei dos dividendos". Este livro é a autobiografia do referido autor.
 ## Engenharia de prompt
 Usando do background de *Quality Assurance* (*QA*), forcei algumas perguntas para testar a capacidade desta IA em não ser complacente com o usuário e o resultado foi positivo. Abaixo, alguns casos de exemplo:
 
@@ -113,7 +113,7 @@ Aqui está um conjunto de **10 prompts úteis e reutilizáveis** para explorar a
 9.  **Regras para o Iniciante:** "Quais são as **três regras de ouro** que Barsi recomenda para que o investidor nunca perca dinheiro no mercado acionário?"
 10. **Setores a Evitar:** "Por que Luiz Barsi recomenda distância de setores como **varejo, aviação e construção civil**, citando-os como negócios de 'voo de galinha'?"
 
-### Extra: Mapa mental BESST
+### EXTRA: Mapa mental BESST
 ![mapa mental](https://github.com/jorgetxjr/miniguia-estudos-notebooklm/blob/main/assets/NotebookLM%20Mind%20Map.png)
 
 Para ver o mapa mental completo, [clique aqui.](https://github.com/jorgetxjr/miniguia-estudos-notebooklm/blob/main/assets/NotebookLM%20Mind%20Map_full.png)
