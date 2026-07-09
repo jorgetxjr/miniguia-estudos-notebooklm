@@ -1,10 +1,11 @@
 # Ações Garantem o Futuro (AGF)
 [![Static Badge](https://img.shields.io/badge/-link%20Notebook%20LM-green)](https://notebooklm.google.com/notebook/9b250159-6593-4851-8777-cad34bb836f2/)
-[![Static Badge](https://img.shields.io/badge/-Entrega%20Final-blue)](https://github.com/jorgetxjr/miniguia-estudos-notebooklm/edit/main/README.md#entrega-final)
+[![Static Badge](https://img.shields.io/badge/-Entrega%20Final-white)](https://github.com/jorgetxjr/miniguia-estudos-notebooklm/tree/main#entrega-final)
+[![Static Badge](https://img.shields.io/badge/-Meu%20LinkedIn-blue)](https://www.linkedin.com/in/jorge-teixeira-jr/)
 
 ## Sobre o projeto
-Executando o Aprendizado por Projetos (*Project Based Learning - PBL*) da plataforma DIO, com o treinamento da plataforma Notebook LM.
-No exemplo mostrado em estudo, foram usados os conceitos de value investing e Benjamin Graham como base.
+Executando o Aprendizado por Projetos (*Project Based Learning - PBL*) da [plataforma DIO](https://www.dio.me/), com o treinamento da plataforma Notebook LM.
+No exemplo mostrado em estudo, foram usados os conceitos de [*value investing*](https://pt.wikipedia.org/wiki/Investimento_em_valor) e [Benjamin Graham](https://pt.wikipedia.org/wiki/Benjamin_Graham) como base.
 Para este projeto, fiz algo semelhante - pois também tenho interesse na área de finanças. Todavia, a persona alvo deste projeto foi o investidor brasileiro Luiz Barsi Filho.
 
 ![Luiz Barsi Filho](https://github.com/jorgetxjr/miniguia-estudos-notebooklm/blob/main/assets/luiz_barsi.png)
@@ -33,6 +34,7 @@ LM: *"Com base nas fontes fornecidas, é importante esclarecer que Luiz Barsi Fi
 . Seu pai, de quem herdou o nome, era descendente de italianos, e sua mãe, Maria Margarida Ruiz Santos, era descendente de espanhóis
 O que de fato ajudou Barsi a prosperar no Brasil foi o seu histórico de superação vindo de uma origem muito humilde e a convivência em um ambiente de imigrantes europeus pobres no bairro do Brás, em São Paulo."*
 
+____
 Também foi testada a veracidade das respostas oferecidas. Estas também foram aprovadas. Veja novos exemplos abaixo:
 
 me: **Quais são as empresas do setor 'BEST' que Barsi investe?**
